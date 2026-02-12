@@ -1,0 +1,6 @@
+num1 = float(input("enter first number: "))
+num2 = float(input("enter second number: "))
+print(f"Сумма: {num1 + num2}")
+print(f"Разность: {num1 - num2}")
+print(f"Умножение: {num1 * num2}")
+print(f"Деление: {num1 / num2}")
